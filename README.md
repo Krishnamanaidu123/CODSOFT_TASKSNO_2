@@ -36,7 +36,7 @@ Download `phishing-training-module.html` and open it in any modern browser.
 2. Go to **Settings → Pages**
 3. Set the source branch (e.g. `main`) and root folder
 4.link to it directly at:
-   `(https://krishnamanaidu123.github.io/CODSOFT_TASKSNO_2/)`
+   `https://krishnamanaidu123.github.io/CODSOFT_TASKSNO_2`
 
 ### Option 3 — Embed in an LMS / intranet
 The file is fully self-contained and can be uploaded as-is to most learning management systems (SCORM wrappers, Confluence, SharePoint, internal wikis, etc.) or embedded via `<iframe>`.
