@@ -4,7 +4,7 @@
 
 A self-contained, interactive web training module that teaches employees how to recognize and avoid phishing attacks. Built as a single HTML file — no build step, no dependencies, no backend required.
 
-**[View the module](./phishing-training-module.html)** — open directly in any browser.
+**[View the module](./https://krishnamanaidu123.github.io/CODSOFT_TASKSNO_2/)** — open directly in any browser.
 
 ## Overview
 
